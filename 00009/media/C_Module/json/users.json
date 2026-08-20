@@ -1,0 +1,12 @@
+[
+  { "idx": 1,  "id": "admin",  "password": "1234", "name": "관리자", "type": "관리자" },
+  { "idx": 2,  "id": "user01", "password": "1234", "name": "김여행", "type": "일반회원" },
+  { "idx": 3,  "id": "user02", "password": "1234", "name": "이누비", "type": "일반회원" },
+  { "idx": 4,  "id": "user03", "password": "1234", "name": "박코스", "type": "일반회원" },
+  { "idx": 5,  "id": "user04", "password": "1234", "name": "최미식", "type": "일반회원" },
+  { "idx": 6,  "id": "user05", "password": "1234", "name": "정힐링", "type": "일반회원" },
+  { "idx": 7,  "id": "user06", "password": "1234", "name": "강동행", "type": "일반회원" },
+  { "idx": 8,  "id": "user07", "password": "1234", "name": "윤도보", "type": "일반회원" },
+  { "idx": 9,  "id": "user08", "password": "1234", "name": "한야경", "type": "일반회원" },
+  { "idx": 10, "id": "user09", "password": "1234", "name": "오레저", "type": "일반회원" }
+]

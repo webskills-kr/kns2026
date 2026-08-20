@@ -1,0 +1,33 @@
+{
+  "seats": [
+    { "seat": "A-1", "grade": "VIP", "status": "available" },
+    { "seat": "A-2", "grade": "VIP", "status": "reserved" },
+    { "seat": "A-3", "grade": "VIP", "status": "available" },
+    { "seat": "A-4", "grade": "VIP", "status": "available" },
+    { "seat": "A-5", "grade": "VIP", "status": "available" },
+
+    { "seat": "B-1", "grade": "R", "status": "available" },
+    { "seat": "B-2", "grade": "R", "status": "available" },
+    { "seat": "B-3", "grade": "R", "status": "available" },
+    { "seat": "B-4", "grade": "R", "status": "reserved" },
+    { "seat": "B-5", "grade": "R", "status": "available" },
+
+    { "seat": "C-1", "grade": "R", "status": "available" },
+    { "seat": "C-2", "grade": "R", "status": "available" },
+    { "seat": "C-3", "grade": "R", "status": "available" },
+    { "seat": "C-4", "grade": "R", "status": "available" },
+    { "seat": "C-5", "grade": "R", "status": "available" },
+
+    { "seat": "D-1", "grade": "S", "status": "available" },
+    { "seat": "D-2", "grade": "S", "status": "available" },
+    { "seat": "D-3", "grade": "S", "status": "available" },
+    { "seat": "D-4", "grade": "S", "status": "available" },
+    { "seat": "D-5", "grade": "S", "status": "available" },
+
+    { "seat": "E-1", "grade": "S", "status": "available" },
+    { "seat": "E-2", "grade": "S", "status": "available" },
+    { "seat": "E-3", "grade": "S", "status": "available" },
+    { "seat": "E-4", "grade": "S", "status": "available" },
+    { "seat": "E-5", "grade": "S", "status": "available" }
+  ]
+}

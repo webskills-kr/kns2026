@@ -1,0 +1,20 @@
+{
+  "reservations": [
+    {
+      "id": 1,
+      "user_id": 2,
+      "concert_id": 1,
+      "seat": "A-2",
+      "status": "예매완료",
+      "reserved_at": "2026-05-21"
+    },
+    {
+      "id": 2,
+      "user_id": 3,
+      "concert_id": 2,
+      "seat": "B-4",
+      "status": "취소완료",
+      "reserved_at": "2026-05-20"
+    }
+  ]
+}

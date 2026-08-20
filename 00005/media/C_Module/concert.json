@@ -1,0 +1,105 @@
+{
+  "concerts": [
+    {
+      "id": 1,
+      "title": "시간의 기억",
+      "genre": "뮤지컬",
+      "venue": "블루스퀘어 신한카드홀",
+      "period": {
+        "start": "2026-06-01",
+        "end": "2026-06-15"
+      },
+      "price": {
+        "VIP": 120000,
+        "R": 90000,
+        "S": 70000
+      },
+      "description": "시간을 넘나드는 선택의 이야기로, 과거와 현재가 연결되며 한 사람의 인생이 변화하는 과정을 그린 감성 뮤지컬이다.",
+      "summary": "시간 여행을 통한 선택과 결과",
+      "features": [
+        "라이브 오케스트라",
+        "대형 LED 무대",
+        "시간 이동 연출",
+        "감정 중심 스토리"
+      ],
+      "poster": "time_memory.jpg",
+      "status": "OPEN",
+      "created_at": "2026-05-01"
+    },
+    {
+      "id": 2,
+      "title": "STAR LIGHT LIVE",
+      "genre": "콘서트",
+      "venue": "KSPO DOME",
+      "period": {
+        "start": "2026-06-03",
+        "end": "2026-06-03"
+      },
+      "price": {
+        "STANDING": 110000,
+        "SEAT": 99000
+      },
+      "description": "최고의 아티스트들과 함께하는 대형 EDM 라이브 콘서트 페스티벌.",
+      "summary": "EDM 기반 대형 페스티벌",
+      "features": [
+        "EDM 페스티벌",
+        "대형 LED 스테이지",
+        "라이브 퍼포먼스",
+        "야외 특수 효과"
+      ],
+      "poster": "starlight_live.jpg",
+      "status": "OPEN",
+      "created_at": "2026-05-02"
+    },
+    {
+      "id": 3,
+      "title": "마지막 편지",
+      "genre": "연극",
+      "venue": "대학로 예술극장",
+      "period": {
+        "start": "2026-06-05",
+        "end": "2026-06-20"
+      },
+      "price": {
+        "GENERAL": 50000
+      },
+      "description": "편지를 통해 밝혀지는 인간관계의 진실과 감정의 변화를 다룬 심리극이다.",
+      "summary": "편지로 풀어가는 인간 심리",
+      "features": [
+        "심리 중심 연극",
+        "소규모 무대",
+        "몰입형 연출",
+        "감정 표현 강화"
+      ],
+      "poster": "last_letter.jpg",
+      "status": "OPEN",
+      "created_at": "2026-05-03"
+    },
+    {
+      "id": 4,
+      "title": "DREAM HIGH",
+      "genre": "뮤지컬",
+      "venue": "세종문화회관",
+      "period": {
+        "start": "2026-06-07",
+        "end": "2026-06-22"
+      },
+      "price": {
+        "VIP": 110000,
+        "R": 85000,
+        "S": 65000
+      },
+      "description": "꿈과 성장, 청춘의 도전을 그린 감동적인 이야기의 뮤지컬.",
+      "summary": "청춘 성장 스토리",
+      "features": [
+        "댄스 퍼포먼스",
+        "라이브 음악",
+        "청춘 서사",
+        "감성 무대"
+      ],
+      "poster": "dream_high.jpg",
+      "status": "OPEN",
+      "created_at": "2026-05-04"
+    }
+  ]
+}

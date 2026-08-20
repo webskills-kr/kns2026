@@ -1,0 +1,14 @@
+[
+  { "from": 1, "to": 2, "minutes": 22, "transport": "도보" },
+  { "from": 1, "to": 3, "minutes": 12, "transport": "도보" },
+  { "from": 2, "to": 4, "minutes": 9,  "transport": "버스" },
+  { "from": 3, "to": 4, "minutes": 15, "transport": "도보" },
+  { "from": 3, "to": 5, "minutes": 14, "transport": "버스" },
+  { "from": 4, "to": 6, "minutes": 9,  "transport": "지하철" },
+  { "from": 5, "to": 6, "minutes": 18, "transport": "버스" },
+  { "from": 2, "to": 7, "minutes": 16, "transport": "지하철" },
+  { "from": 4, "to": 7, "minutes": 12, "transport": "버스" },
+  { "from": 6, "to": 8, "minutes": 10, "transport": "도보" },
+  { "from": 7, "to": 8, "minutes": 8,  "transport": "버스" },
+  { "from": 4, "to": 8, "minutes": 11, "transport": "지하철" }
+]

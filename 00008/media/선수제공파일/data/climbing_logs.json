@@ -1,0 +1,18 @@
+{
+  "_comment": "완등(SEND) 기록 시드. 통계·마이클라임 시연용 초기 데이터. memberId=members.json의 id, problemId=problems.json의 id. attempts=시도 횟수, sendDate=완등일(YYYY-MM-DD). 난이도/섹터/월은 problemId로 조인하여 집계한다.",
+  "logs": [
+    { "id": 1,  "memberId": "climber", "problemId": 1,  "attempts": 1, "sendDate": "2026-05-03", "memo": "워밍업 플래시" },
+    { "id": 2,  "memberId": "climber", "problemId": 3,  "attempts": 1, "sendDate": "2026-05-03", "memo": "" },
+    { "id": 3,  "memberId": "climber", "problemId": 5,  "attempts": 2, "sendDate": "2026-05-05", "memo": "발 위치 주의" },
+    { "id": 4,  "memberId": "climber", "problemId": 7,  "attempts": 3, "sendDate": "2026-05-09", "memo": "점프 타이밍" },
+    { "id": 5,  "memberId": "climber", "problemId": 10, "attempts": 2, "sendDate": "2026-05-12", "memo": "트래버스 재밌음" },
+    { "id": 6,  "memberId": "climber", "problemId": 11, "attempts": 4, "sendDate": "2026-05-12", "memo": "" },
+    { "id": 7,  "memberId": "climber", "problemId": 14, "attempts": 2, "sendDate": "2026-05-18", "memo": "밸런스 성공" },
+    { "id": 8,  "memberId": "climber", "problemId": 15, "attempts": 6, "sendDate": "2026-05-24", "memo": "첫 블루! 크럭스 돌파" },
+    { "id": 9,  "memberId": "climber", "problemId": 19, "attempts": 5, "sendDate": "2026-05-30", "memo": "토훅 연습 효과" },
+    { "id": 10, "memberId": "climber", "problemId": 8,  "attempts": 1, "sendDate": "2026-06-01", "memo": "" },
+    { "id": 11, "memberId": "boulder7","problemId": 20, "attempts": 8, "sendDate": "2026-05-20", "memo": "레드 첫 완등" },
+    { "id": 12, "memberId": "boulder7","problemId": 16, "attempts": 4, "sendDate": "2026-05-22", "memo": "" },
+    { "id": 13, "memberId": "boulder7","problemId": 25, "attempts": 12,"sendDate": "2026-05-29", "memo": "퍼플 도전 성공" }
+  ]
+}

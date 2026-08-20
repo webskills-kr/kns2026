@@ -1,0 +1,10 @@
+[
+  { "spot_id": 1, "name": "해돋이 전망대", "category": "힐링",    "stay_min": 60,  "score": 85, "image": "spot_01.jpg", "map_x": 0.17, "map_y": 0.19 },
+  { "spot_id": 2, "name": "중앙 전통시장", "category": "미식",    "stay_min": 70,  "score": 80, "image": "spot_02.jpg", "map_x": 0.52, "map_y": 0.15 },
+  { "spot_id": 3, "name": "강변 산책로",   "category": "힐링",    "stay_min": 50,  "score": 70, "image": "spot_03.jpg", "map_x": 0.31, "map_y": 0.49 },
+  { "spot_id": 4, "name": "골목 식당가",   "category": "미식",    "stay_min": 70,  "score": 78, "image": "spot_04.jpg", "map_x": 0.61, "map_y": 0.50 },
+  { "spot_id": 5, "name": "숲속 미술관",   "category": "힐링",    "stay_min": 80,  "score": 88, "image": "spot_05.jpg", "map_x": 0.17, "map_y": 0.81 },
+  { "spot_id": 6, "name": "야경 타워",     "category": "힐링",    "stay_min": 60,  "score": 92, "image": "spot_06.jpg", "map_x": 0.52, "map_y": 0.85 },
+  { "spot_id": 7, "name": "레저 파크",     "category": "액티비티", "stay_min": 120, "score": 75, "image": "spot_07.jpg", "map_x": 0.84, "map_y": 0.33 },
+  { "spot_id": 8, "name": "도심 광장",     "category": "당일치기", "stay_min": 40,  "score": 65, "image": "spot_08.jpg", "map_x": 0.81, "map_y": 0.75 }
+]

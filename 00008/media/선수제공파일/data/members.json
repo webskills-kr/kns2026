@@ -1,0 +1,13 @@
+{
+  "_comment": "회원 시드. role: ADMIN(관리자)·MEMBER(일반회원)·SETTER(세터). 모든 내용을 DB에 저장한다. pw는 시드 평문이며, 저장 시 처리(해시 등)는 선수 구현에 따른다. startYear=클라이밍 시작연차(예약 난이도 미달 판정에 사용).",
+  "members": [
+    { "id": "admin",   "pw": "Crux2026!",  "name": "관리자",   "role": "ADMIN",  "email": "admin@crux-climbing.kr",  "phone": "032-123-4567", "startYear": 9 },
+    { "id": "climber", "pw": "hold0211@",  "name": "김클라임", "role": "MEMBER", "email": "climber@gmail.com",       "phone": "010-1111-2222", "startYear": 2 },
+    { "id": "setter",  "pw": "route0303#", "name": "박세터",   "role": "SETTER", "email": "setter@crux-climbing.kr", "phone": "010-3333-4444", "startYear": 7 },
+    { "id": "boulder7","pw": "send1234@",  "name": "이볼더",   "role": "MEMBER", "email": "boulder7@gmail.com",      "phone": "010-5555-6666", "startYear": 4 },
+    { "id": "newbie",  "pw": "first567#",  "name": "정초보",   "role": "MEMBER", "email": "newbie@gmail.com",        "phone": "010-7777-8888", "startYear": 0 },
+    { "id": "crimpy",  "pw": "crux8888!",  "name": "한크림프", "role": "MEMBER", "email": "crimpy@gmail.com",        "phone": "010-9999-0000", "startYear": 3 },
+    { "id": "slabber", "pw": "balance12@", "name": "최슬랩",   "role": "MEMBER", "email": "slabber@gmail.com",       "phone": "010-1212-3434", "startYear": 1 },
+    { "id": "dynoman",  "pw": "jump5678#",  "name": "윤다이노", "role": "MEMBER", "email": "dynoman@gmail.com",       "phone": "010-5656-7878", "startYear": 5 }
+  ]
+}

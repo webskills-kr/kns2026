@@ -1,0 +1,17 @@
+{
+  "_comment": "요일 day: MON~SUN. 시간 start/end는 24시간제 HH:MM. capacity=정원. targetMinYear=대상 최소 클라이밍 연차(이 미만이면 난이도 미달 경고). 월요일 c1·c2는 시간 구간이 교차하도록 설계되어 동일 회원의 시간 겹침 충돌 감지 테스트가 가능하다. c8(정원 2)은 MEMBER 회원 수(6명)보다 정원이 작아, 정원 마감 → 대기 예약 → 확정자 취소 시 대기자 자동 승급 시나리오를 소수 인원으로 빠르게 재현할 수 있다.",
+  "classes": [
+    { "id": "c1",  "name": "볼더링 입문 클래스",   "instructor": "정코치",  "day": "MON", "start": "19:00", "end": "20:30", "capacity": 8,  "targetGrade": "WHITE",  "targetMinYear": 0 },
+    { "id": "c2",  "name": "베이직 무브 트레이닝", "instructor": "한코치",  "day": "MON", "start": "20:00", "end": "21:30", "capacity": 6,  "targetGrade": "YELLOW", "targetMinYear": 0 },
+    { "id": "c3",  "name": "슬랩 밸런스 클리닉",   "instructor": "정코치",  "day": "TUE", "start": "18:00", "end": "19:30", "capacity": 6,  "targetGrade": "GREEN",  "targetMinYear": 1 },
+    { "id": "c4",  "name": "오버행 파워 클래스",   "instructor": "마스터R", "day": "TUE", "start": "20:00", "end": "21:30", "capacity": 5,  "targetGrade": "BLUE",   "targetMinYear": 1 },
+    { "id": "c5",  "name": "키즈 클라이밍",        "instructor": "한코치",  "day": "WED", "start": "16:00", "end": "17:00", "capacity": 10, "targetGrade": "WHITE",  "targetMinYear": 0 },
+    { "id": "c6",  "name": "다이노 워크숍",        "instructor": "마스터R", "day": "WED", "start": "19:30", "end": "21:00", "capacity": 4,  "targetGrade": "RED",    "targetMinYear": 2 },
+    { "id": "c7",  "name": "핀치 & 슬로퍼 특강",   "instructor": "정코치",  "day": "THU", "start": "19:00", "end": "20:30", "capacity": 6,  "targetGrade": "BLUE",   "targetMinYear": 1 },
+    { "id": "c8",  "name": "루프 컴프레션 클리닉", "instructor": "마스터R", "day": "THU", "start": "20:30", "end": "22:00", "capacity": 2,  "targetGrade": "PURPLE", "targetMinYear": 3 },
+    { "id": "c9",  "name": "주말 입문 원데이",     "instructor": "한코치",  "day": "SAT", "start": "11:00", "end": "12:30", "capacity": 12, "targetGrade": "WHITE",  "targetMinYear": 0 },
+    { "id": "c10", "name": "프로젝트 세션",        "instructor": "마스터R", "day": "SAT", "start": "14:00", "end": "16:00", "capacity": 5,  "targetGrade": "BLACK",  "targetMinYear": 4 },
+    { "id": "c11", "name": "코디네이션 무브",      "instructor": "정코치",  "day": "SUN", "start": "13:00", "end": "14:30", "capacity": 6,  "targetGrade": "RED",    "targetMinYear": 2 },
+    { "id": "c12", "name": "컨디셔닝 & 스트레칭",  "instructor": "한코치",  "day": "SUN", "start": "15:00", "end": "16:00", "capacity": 10, "targetGrade": "WHITE",  "targetMinYear": 0 }
+  ]
+}

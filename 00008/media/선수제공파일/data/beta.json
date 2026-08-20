@@ -1,0 +1,10 @@
+{
+  "_comment": "베타 라운지(공략 게시판) 초기 시드 데이터. problemId는 problems.json의 id 참조. author는 작성자 ID.",
+  "posts": [
+    { "id": 1, "problemId": 15, "title": "블루 크럭스 마지막 무브 베타", "content": "두 번째 볼륨에서 오른발 하이스텝 후 왼손 데드포인트로 가면 편합니다. 힙을 벽에 붙이는 게 핵심.", "author": "climber", "regDate": "2026-05-20" },
+    { "id": 2, "problemId": 20, "title": "레드 데드포인트 떨어지는 분들", "content": "런지 타이밍을 반박자 빠르게. 발이 떨어지기 전에 손이 먼저 홀드를 잡아야 합니다.", "author": "climber", "regDate": "2026-05-22" },
+    { "id": 3, "problemId": 13, "title": "슬로퍼 천국 슬로퍼 잡는 법", "content": "손바닥 전체로 누르지 말고 손끝 마찰을 살리세요. 어깨를 낮추면 무게중심이 잡힙니다.", "author": "climber", "regDate": "2026-05-24" },
+    { "id": 4, "problemId": 29, "title": "더 크럭스 프로젝트 도전기", "content": "루프 구간 토훅이 관건. 코어 텐션 유지하면서 발 스왑까지 한 번에 가야 합니다.", "author": "admin", "regDate": "2026-05-25" },
+    { "id": 5, "problemId": 7,  "title": "옐로우 점프 입문자 팁", "content": "겁먹지 말고 시선을 목표 홀드에 고정. 다리 반동을 충분히 쓰세요.", "author": "climber", "regDate": "2026-05-27" }
+  ]
+}

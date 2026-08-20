@@ -1,0 +1,5 @@
+[
+  { "idx": 1, "title": "주말 야경 투어 같이가요", "area": "도심",      "schedule": "2026-06-14 18:00", "capacity": 4, "host": "user08", "joined": 3, "open": true },
+  { "idx": 2, "title": "미식 골목 탐방 멤버",     "area": "시장 일대",  "schedule": "2026-06-15 11:00", "capacity": 6, "host": "user04", "joined": 2, "open": true },
+  { "idx": 3, "title": "강변 라이딩 동행",       "area": "강변",      "schedule": "2026-06-21 09:00", "capacity": 5, "host": "user06", "joined": 5, "open": true }
+]
